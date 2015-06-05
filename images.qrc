@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Green Skittle.gif</file>
+        <file>Purple Skittle.gif</file>
+        <file>Yellow Skittle.gif</file>
+        <file>Orange Skittle.gif</file>
+        <file>Red Skittle.gif</file>
+        <file>Marshawn Lynch BoardPiece.jpeg</file>
+        <file>Marshawn's Skittle Crusher - EXAMPLE.png</file>
+        <file>marshawn-lynch-skittles-press-conference.png</file>
+        <file>GameOverPic.jpg</file>
+    </qresource>
+</RCC>
